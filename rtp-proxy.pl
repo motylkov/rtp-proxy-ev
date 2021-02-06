@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+# Copyright 2014 Maxim Motylkov
+# GNU General Public License v3.0
+
 use FindBin '$Bin';
 use strict;
 use warnings;
